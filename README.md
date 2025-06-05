@@ -1,7 +1,14 @@
 # CryptoMarketTrendAnalysis
-Using ML model predict Trend in Crypto Market.
 
-If you want to download crypto market dataset then run this code in your local system.
+This project uses machine learning to analyze and predict trends in the cryptocurrency market based on historical price data.
+
+## 📂 Dataset
+
+The dataset used for this project is the [Cryptocurrency Price History](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory) by Sudalai Rajkumar, available on Kaggle.
+
+To download the dataset, run the following code on your local system:
+
+```python
 import kagglehub
 
 # Download latest version
