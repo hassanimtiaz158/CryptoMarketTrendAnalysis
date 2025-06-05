@@ -4,7 +4,7 @@ This project uses machine learning to analyze and predict trends in the cryptocu
 
 ## 📂 Dataset
 
-The dataset used for this project is the [Cryptocurrency Price History](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory) by Sudalai Rajkumar, available on Kaggle.
+The dataset used for this project is the [Cryptocurrency Price History](https://www.kaggle.com/datasets/malikhasanali/cryptomarkettrendanalysis) by Hasan ALi, available on Kaggle.
 
 To download the dataset, run the following code on your local system:
 
@@ -12,6 +12,6 @@ To download the dataset, run the following code on your local system:
 import kagglehub
 
 # Download latest version
-path = kagglehub.dataset_download("sudalairajkumar/cryptocurrencypricehistory")
+path = kagglehub.dataset_download("malikhasanali/cryptomarkettrendanalysis")
 
 print("Path to dataset files:", path)
