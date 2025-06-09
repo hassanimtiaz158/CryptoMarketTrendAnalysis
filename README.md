@@ -14,7 +14,8 @@ import kagglehub
 # Download latest version
 path = kagglehub.dataset_download("malikhasanali/cryptomarkettrendanalysis")
 
-print("Path to dataset files:", path)
+print("Path to dataset files:", path)'''
+
 
 # Cryptocurrency Price Prediction
 
